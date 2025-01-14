@@ -7,5 +7,5 @@ Portfolio page to showcase projects done in AI Product Management specialization
 **Course 2 Project:** Personalized recommendations in food delivery apps - an exercise to manage a mock ML product/project through identifying a problem/opportunity and coming up with a plan.
 **Presentation:** https://www.youtube.com/watch?v=E9UeLRzuEDk
 
-**Course 3 Project:** Personalized recommendations in food delivery apps - solving a user problem (continuing from project 2) through a mock AI product feature while considering issues related to usability and responsible AI.
+**Course 3 Project:** Personalized recommendations in food delivery apps - solving a user problem (continuing from project 2) through a mock AI product feature while considering issues related to usability in AI and responsible AI.
 **Presentation:** https://www.youtube.com/watch?v=I1hsQKF-BGw
